@@ -64,5 +64,5 @@ public static void main(String[] args)
 	System.out.println("2 Notes - " + count2);
 	System.out.println("1 Notes - " + count1);
 	 
-}
+   }
 }
